@@ -5,3 +5,4 @@ push B
 SLAVAUKRAINE
 34509
 !!
+finish
